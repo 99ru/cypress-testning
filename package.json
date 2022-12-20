@@ -1,0 +1,17 @@
+{
+  "name": "cypress-testning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pkg": "^5.8.0"
+  },
+  "devDependencies": {
+    "cypress": "^12.1.0"
+  }
+}
